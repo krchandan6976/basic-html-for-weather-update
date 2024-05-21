@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+ <div id="weather-info">
+
+<h2>Current Weather</h2>
+
+<p>Temperature: <span id="temperature">...</span>C</p>
+
+<p>Humidity: <span id="humidity">...</span></p>
+
+<p>Wind Speed: <span id="wind-speed">...</span> km/h</p> </div>
